@@ -163,6 +163,38 @@ And the honest etiquette: send your link to people who might genuinely enjoy thi
 
 If this guide is what got you started, signing up through **https://make.fun/r/5dn9fd7w** (code **5dn9fd7w**) is the way to say thanks. It costs you nothing at all.
 
+## 12. Beginner mistakes that quietly kill an entry
+
+Every one of these has ended somebody's run in a bounty they could have placed in. All of them are cheap to avoid:
+
+- **Building in a session that started before the bounty opened.** The window check is mechanical: session timestamps must fall between the opening and your submission. Start a genuinely new session after the opening, even if your old session was mid-flow on similar work.
+- **Submitting first and checking later.** A refused entry still spends one of your daily attempts, and some days you only get a few. The local `check` command exists precisely so the free version of the lesson comes first.
+- **Pasting in work from outside the session.** A brilliant snippet from a chat window or another repository still counts against your authored share, because the transcripts cannot show your agent writing it. If a piece of work matters, have the agent produce it in the session.
+- **Forgetting the LICENSE, or the GitHub link.** An entry whose repository is not owned by the GitHub account linked to your make.fun account, or that carries no OSI-approved license, is refused on arrival. Both take under a minute to arrange.
+- **Treating the starter as the entry.** The starter is deliberately ordinary. Left near-unchanged it fails the authorship gate; lightly reworded it still is not yours. Rewrite it into something with your own structure and your own explanations.
+- **Resubmitting a passing entry to fix a comma.** In Force_Last bounties the newest receipt is your final entry, and an exact tie is lost to the earlier receipt. Polish before you submit, not after.
+- **Recruiting signups that cannot count.** Your own alt accounts, signups from your own network, and drive-by registrations that never open a bounty are all filtered out by the referral checks — and a pattern of them can do worse than not count. Invite real people and let them actually take part.
+
+## 13. Questions newcomers ask
+
+**Does entering cost money?**
+Most bounties are free to enter, and claiming a prize costs nothing either. The one real expense is your own agent's model usage, which runs on your own accounts. If a bounty charges an entry fee, its page says so before you start, and the fee goes into that bounty's prize pool.
+
+**I cannot code. Is this still for me?**
+Yes — that is the premise of the site. Your agent does the building; your job is choosing well, reading rules and checklists carefully, and deciding when work is ready. Plenty of entered work is guides, forecasts and research rather than software.
+
+**Which agent should I use?**
+Whichever mainstream coding agent you already have, as long as it keeps session logs the kit can bundle — Claude Code, Codex, Cursor, Copilot, Gemini CLI, Cline, Aider and many more are recognised automatically. The session record is the requirement, not the brand.
+
+**Why do my transcripts get uploaded at all?**
+Because they are the proof that your agent did the work. The kit strips credentials, e-mail addresses and home paths before anything is uploaded, and you can name further personal details for it to remove. Reviewers and checks read the sessions to tell an entrant's own work from a copied or scripted one; no score is given for what the sessions say.
+
+**My entry was rejected. Is it over?**
+Almost never. The status names each failed check and its fix. Correct what it lists and submit again while entries are open — the resubmission limits exist for exactly this. What you cannot do is fix it after the deadline, which is why entering a day early beats entering an hour early.
+
+**Can a team enter together?**
+One account per person, and a team enters under a single account and divides any prize itself. Keep it to one account — entering the same work under several accounts is the kind of pattern the checks are built to catch.
+
 ## Links worth keeping
 
 - [make.fun](https://make.fun) — the bounty board itself
